@@ -19,6 +19,7 @@ Currently working toward **AI Engineering** as a primary track, with **Data Engi
 ---
 
 ## What I Do
+*GTM Engineering · RevOps · Automation*
 
 | | |
 |:--|:--|
