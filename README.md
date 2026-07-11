@@ -21,14 +21,7 @@ Currently working toward **AI Engineering** as a primary track, with **Data Engi
 ## What I Do
 *GTM Engineering · RevOps · Automation*
 
-| | |
-|:--|:--|
-| 🔧 **CRM Setup & Configuration** | HubSpot, Salesforce, Attio, Pipedrive — from scratch or cleanup |
-| ⚙️ **Marketing & Sales Automation** | Workflow design, tool integration, outreach infrastructure |
-| 📊 **Dashboarding & Attribution** | Looker Studio, Power BI — pipeline visibility and channel attribution |
-| 🔗 **Data Pipelines & Integrations** | Connecting martech tools and syncing data across systems — no manual exports |
-| 🎯 **Lead Enrichment & Outbound** | Apollo, Clay — enrichment workflows feeding cold outreach |
-| 🛠️ **Internal Tooling** | Purpose-built web apps and scripts for ops teams |
+CRM setup · sales & marketing automation · RevOps dashboards · data pipelines · lead enrichment · internal tooling
 
 ---
 
