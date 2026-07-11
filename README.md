@@ -12,26 +12,7 @@
 
 I build the technical infrastructure behind a B2B growth marketing agency serving **cleantech and climate tech companies** at Series A–B. Automation workflows, data pipelines, RevOps dashboards, attribution models, and proprietary internal tools — built lean, built to last.
 
-Not a CS graduate. I build by thinking precisely about systems, writing tight specs, and iterating fast with AI-assisted development. *It works.*
-
----
-
-## What I'm Building
-
-**[Satellite](https://github.com/0waisA1i/satellite-portal-v1)** `Flagship`
-> Proprietary intent signal platform for cleantech GTM teams. Scrapes public regulatory filings — permits, EIAs, applications — scores accounts against client ICPs, and delivers ranked prospect workbooks on a weekly cadence. Full portal with client-facing views and admin.
->
-> `Next.js 15` `Supabase` `Python` `ExcelJS` `Vercel` `Cowork`
-
-**[LinkedIn + Website Hunter](https://github.com/0waisA1i/LinkedIn-Website-Hunter)** `Internal Tool`
-> Full-stack enrichment tool that finds LinkedIn profile URLs and scrapes website data for company lists at scale. Replaced a brittle n8n workflow.
->
-> `Next.js` `Playwright` `OpenAI` `Node.js`
-
-**enSights Revenue Intelligence** `Client`
-> Attribution dashboard connecting HubSpot pipeline, LinkedIn Ads, Google Ads, and Fibbler intent signals. n8n → Supabase → Google Sheets pipeline feeding Looker Studio with P0–P6 stage-level deal visibility.
->
-> `Looker Studio` `n8n` `Supabase` `Fibbler` `HubSpot`
+I build by thinking precisely about systems, writing tight specs, and iterating fast with AI-assisted development. *It works.*
 
 ---
 
@@ -40,32 +21,45 @@ Not a CS graduate. I build by thinking precisely about systems, writing tight sp
 **Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-8DC63F?style=flat-square&logo=apify&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
-**AI & LLM**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97706?style=flat-square&logoColor=white)
-
-**Backend & Data**
+**Coding**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend & Deploy**
+**Data & Dashboarding**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**GTM & Enrichment**
+**CRM & GTM**
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-017737?style=flat-square&logo=pipedrive&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Attio](https://img.shields.io/badge/Attio-1C1C1C?style=flat-square&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00BCD4?style=flat-square&logoColor=white)
+![Marketo](https://img.shields.io/badge/Marketo-5C4EE5?style=flat-square&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=flat-square&logo=zoho&logoColor=white)
+
+**Email Outreach**
+
+![Smartlead](https://img.shields.io/badge/Smartlead-2D6CDF?style=flat-square&logoColor=white)
+![Instantly](https://img.shields.io/badge/Instantly-1A1A1A?style=flat-square&logoColor=white)
+
+**Lead Enrichment**
+
 ![Apollo](https://img.shields.io/badge/Apollo.io-3B82F6?style=flat-square&logoColor=white)
-![SEMrush](https://img.shields.io/badge/SEMrush-FF9500?style=flat-square&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-8B5CF6?style=flat-square&logoColor=white)
+
+**Workspace**
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ---
 
