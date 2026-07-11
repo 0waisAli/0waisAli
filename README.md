@@ -14,6 +14,21 @@ I build the technical infrastructure behind a B2B growth marketing agency servin
 
 I build by thinking precisely about systems, writing tight specs, and iterating fast with AI-assisted development. *It works.*
 
+Currently working toward **AI Engineering** as a primary track, with **Data Engineering** (RevOps-focused) as a parallel discipline.
+
+---
+
+## What I Do
+
+| | |
+|:--|:--|
+| 🔧 **CRM Setup & Configuration** | HubSpot, Salesforce, Attio, Pipedrive — from scratch or cleanup |
+| ⚙️ **Marketing & Sales Automation** | Workflow design, tool integration, outreach infrastructure |
+| 📊 **Dashboarding & Attribution** | Looker Studio, Power BI — pipeline visibility and channel attribution |
+| 🔗 **Data Pipelines & Integrations** | API connectors, Supabase, Sheets — clean data where it needs to be |
+| 🎯 **Lead Enrichment & Outbound** | Apollo, Clay — enrichment workflows feeding cold outreach |
+| 🛠️ **Internal Tooling** | Purpose-built web apps and scripts for ops teams |
+
 ---
 
 ## Stack
