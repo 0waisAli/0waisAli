@@ -2,7 +2,7 @@
 
 # Hey, I'm Owais
 
-**Technical & Automation Lead · [CleanTech GrowthLab](https://cleantechgrowthlab.com) · Building toward AI Engineering**
+**Performance Analytics and Tech · [CleanTech GrowthLab](https://cleantechgrowthlab.com)**
 
 ![Location](https://img.shields.io/badge/Lahore%2C%20PK-Remote-3fb950?style=flat-square&labelColor=161b22)
 
