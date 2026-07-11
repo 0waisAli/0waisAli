@@ -25,7 +25,7 @@ Currently working toward **AI Engineering** as a primary track, with **Data Engi
 | 🔧 **CRM Setup & Configuration** | HubSpot, Salesforce, Attio, Pipedrive — from scratch or cleanup |
 | ⚙️ **Marketing & Sales Automation** | Workflow design, tool integration, outreach infrastructure |
 | 📊 **Dashboarding & Attribution** | Looker Studio, Power BI — pipeline visibility and channel attribution |
-| 🔗 **Data Pipelines & Integrations** | API connectors, Supabase, Sheets — clean data where it needs to be |
+| 🔗 **Data Pipelines & Integrations** | API connectors - clean data where it needs to be |
 | 🎯 **Lead Enrichment & Outbound** | Apollo, Clay — enrichment workflows feeding cold outreach |
 | 🛠️ **Internal Tooling** | Purpose-built web apps and scripts for ops teams |
 
